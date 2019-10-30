@@ -18,12 +18,7 @@
 
 ## *Overview*
 
-Numpy
-
-The Iris data set is a database that was originally created by R.A.Fisher and published in 1936 paper called *The use of multiple measurments in taxonomic problems*. It contains of 3 types of Iris flowers with their multiple collection of 4 attributes: the length and the width of the sepals and petals, presented in centimeters.
-
-This dataset became a typical test case for many statistical classification techniques in machine learning such as support vector machines.
-
+Creating Jupyter notebook in order to process with packages for Python.
 
 ## *Class:*
     - Iris Setosa
