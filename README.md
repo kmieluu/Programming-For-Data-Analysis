@@ -20,11 +20,6 @@
 
 Creating Jupyter notebook in order to process with packages for Python. 
 
-## *Class:*
-    - Iris Setosa
-    - Iris Versicolour
-    - Iris Virginica
-
 
 ## References
 
