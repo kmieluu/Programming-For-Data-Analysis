@@ -21,6 +21,11 @@
 Creating Jupyter notebook in order to process with packages for Python. 
 Working on Jypyter.
 
+The repository contains of:
+pgfda.py    python code that is used for this project
+Programming for Data Analysis Assessment I.ipynb    Jupyter Notebook
+Readme.md   Readme file 
+
 ## References
 
 - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Iris)
